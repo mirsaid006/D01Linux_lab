@@ -113,6 +113,17 @@ As a result of the work you should provide a report with completed tasks. Each p
 - Check Ubuntu version by running the command \
   `cat /etc/issue`
 - Add a screenshot of the command output to the report.
+## Part 2. Creating a user
+
+"An installed system is a good thing, but what if someone else uses it? I'll teach you how to create a new user."
+
+**== Task ==**
+
+##### Create a user other than the one created during installation. The user must be added to `adm` group.
+- Add a screenshot of command call to create user.
+- The new user must be in the output of the command: \
+  `cat /etc/passwd`
+- Add a screenshot of the command output.
 
 ## Part 3. Setting up the OS network
 
